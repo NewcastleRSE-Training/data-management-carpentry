@@ -254,7 +254,7 @@ This documentation helps people understand how to navigate your files and the re
 
 ### Data provenance
 
-Data **provenance** - the full record of a dataset's origins and modifications - becomes increasingly important as projects grow, and certain projects may have strict rules for tracking providence. Some data sources include provenance information in file headers, while others store provenance in other locations. 
+Data **provenance** - the full record of a dataset's origins and modifications - becomes increasingly important as projects grow, and certain projects may have strict rules for tracking provenance. Some data sources include provenance information in file headers, while others store provenance in other locations. 
 
 If data sources are updated, for example to correct collection errors or accidental changes, it is important to keep track of the new and old files. 
 
