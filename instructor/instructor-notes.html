@@ -40,7 +40,10 @@
   <div class="container-fluid top-nav-container">
     <div class="col-md-8">
       <div class="large-logo">
-        <img id="incubator-logo" alt="Lesson Description" src="../assets/images/incubator-logo.svg"><span class="badge text-bg-danger">
+        <a href="index.html">
+        <img id="incubator-logo" alt="The focus of this lesson is not programming, data science, or statistics. Instead, we will concentrate on practical skills that help people find, understand, share, and preserve research data." src="../assets/images/incubator-logo.svg"></a>
+
+        <span class="badge text-bg-danger">
           <abbr title="This lesson is in the pre-alpha phase, which means that it is in early development, but has not yet been taught.">
             <a href="https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html" class="external-link alert-link">
               <i aria-hidden="true" class="icon" data-feather="alert-octagon" style="border-radius: 5px"></i>
@@ -96,8 +99,9 @@
       <span class="menu-title">Menu</span>
     </button>
     <div class="nav-logo">
-      <img class="small-logo" alt="Lesson Description" src="../assets/images/incubator-logo-sm.svg">
-</div>
+      <a href="index.html">
+      <img class="small-logo" alt="The focus of this lesson is not programming, data science, or statistics. Instead, we will concentrate on practical skills that help people find, understand, share, and preserve research data." src="../assets/images/incubator-logo-sm.svg"></a>
+    </div>
     <div class="lesson-title-md">
       Introduction to Data Management
     </div>
@@ -143,7 +147,7 @@
       </fieldset>
     </form>
     -->
-    <a id="search-button" class="btn btn-primary" href="../instructor/aio.html" role="button" aria-label="Search the All In One page">Search the All In One page</a>
+    <a id="search-button-nav" class="btn btn-primary" href="../instructor/aio.html" role="button" aria-label="Search the All In One page">Search the All In One page</a>
   </div>
 <!--/div.container-fluid -->
 </nav><div class="container">
@@ -155,6 +159,9 @@
           <i class="search-icon" data-feather="x" role="img"></i>
         </button>
         <div class="sidebar-inner">
+          <div class="row mobile-row" id="theme-row-mobile">
+            <a id="search-button-sidebar" class="btn btn-primary" href="../instructor/aio.html" role="button" aria-label="Search the All In One page">Search the All In One page</a>
+          </div>
           <div class="row mobile-row" id="theme-row-mobile">
             <menu class="col theme-selector" id="theme-selector-sidebar">
 <li class="nav-item dropdown theme-button-list" id="theme-button-list-sidebar">
@@ -203,6 +210,7 @@
 <!--/div.accordion-item-->
                 </div>
 <!--/div.accordion-flush-->
+
               </div>
 <!--div.sidenav-view-selector -->
             </div>
@@ -261,7 +269,7 @@
 <div class="accordion accordion-flush" id="accordionFlush4">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading4">
-        <a href="file-names.html">3. Naming Files Well</a>
+        <a href="file-names.html">3. Best Practices for Naming Files</a>
     </div>
 <!--/div.accordion-header-->
 
@@ -342,9 +350,49 @@
 </div>
 <!--/div.accordion-flush-->
 
+<div class="accordion accordion-flush" id="accordionFlush11">
+  <div class="accordion-item">
+    <div class="accordion-header" id="flush-heading11">
+        <a href="wrapping-up.html">10. Wrapping up</a>
+    </div>
+<!--/div.accordion-header-->
+
+  </div>
+<!--/div.accordion-item-->
+</div>
+<!--/div.accordion-flush-->
+
                 </div>
               </div>
             </div>
+
+            <hr class="half-width">
+<div class="accordion accordion-flush" id="accordion-links-toggle">
+                <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-heading-links-toggle">
+                  <button class="accordion-button collapsed" id="links" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse-links-toggle" aria-expanded="false" aria-controls="flush-collapse-links-toggle">
+                    LINKS
+                  </button>
+                </h2>
+                <div id="flush-collapse-links-toggle" class="accordion-collapse show collapse" data-bs-parent="#accordion-links-toggle">
+                    <div class="accordion-body">
+                        <ul>
+<li>
+                            <a href="../instructor/key-points.html">Key Points</a>
+                            </li>
+                            <li>
+                            <a href="../instructor/instructor-notes.html">Instructor Notes</a>
+                            </li>
+                            <li>
+                            <a href="../instructor/images.html">Extract All Images</a>
+                            </li>
+                        </ul>
+</div>
+                </div>
+                </div>
+<!--/div.accordion-item-->
+            </div>
+<!--/div.accordion-flush-->
 
             <hr class="half-width">
 <div class="accordion accordion-flush lesson-resources" id="accordion-resources-toggle">
@@ -357,16 +405,7 @@
                 <div id="flush-collapse-resources-toggle" class="accordion-collapse collapse" data-bs-parent="#accordion-resources-toggle">
                   <div class="accordion-body">
                     <ul>
-<li>
-                        <a href="../instructor/key-points.html">Key Points</a>
-                      </li>
-                      <li>
-                        <a href="../instructor/instructor-notes.html">Instructor Notes</a>
-                      </li>
-                      <li>
-                        <a href="../instructor/images.html">Extract All Images</a>
-                      </li>
-                      <hr>
+<hr>
 <li><a class="dropdown-item" href="reference.html">Reference</a></li>
                     </ul>
 </div>
@@ -447,7 +486,7 @@ folders are not visible on screen simultaneously.</p>
 unnecessary. For real research projects, moving to <code>archive/</code>
 is often safer than immediate deletion.</p>
 <hr>
-<br></section><section id="file-names"><h2 class="section-heading"><a href="file-names.html">Naming Files Well</a></h2>
+<br></section><section id="file-names"><h2 class="section-heading"><a href="file-names.html">Best Practices for Naming Files</a></h2>
 <hr class="half-width">
 <h3 id="file-names-headingInstructor1">
 <a href="file-names.html#headingInstructor1">Instructor Note</a><a class="anchor" aria-label="anchor" href="#file-names-headingInstructor1"></a>
@@ -459,6 +498,13 @@ clarity.</p>
 <hr>
 <br><h3 id="file-names-headingInstructor2">
 <a href="file-names.html#headingInstructor2">Instructor Note</a><a class="anchor" aria-label="anchor" href="#file-names-headingInstructor2"></a>
+</h3>
+<p>Demonstrate both Windows methods.</p>
+<p>The keyboard shortcut is often significantly faster once learners
+become confident.</p>
+<hr>
+<br><h3 id="file-names-headingInstructor3">
+<a href="file-names.html#headingInstructor3">Instructor Note</a><a class="anchor" aria-label="anchor" href="#file-names-headingInstructor3"></a>
 </h3>
 <p>Demonstrate both Windows methods.</p>
 <p>The keyboard shortcut is often significantly faster once learners
@@ -550,6 +596,7 @@ dataset under a new filename (e.g.,
 <code>Incidence-Data_clean.csv</code>) or work on a copy.</p>
 <hr>
 <br></section><section id="data-formats"><h2 class="section-heading"><a href="data-formats.html">Choosing a Data Storage Format</a></h2>
+<hr class="half-width"></section><section id="wrapping-up"><h2 class="section-heading"><a href="wrapping-up.html">Wrapping up</a></h2>
 <hr class="half-width"></section></section>
 </div>
     </main>
@@ -563,11 +610,11 @@ dataset under a new filename (e.g.,
         <p>This lesson is subject to the <a href="CODE_OF_CONDUCT.html">Code of Conduct</a></p>
         <p>
 
-        <a href="https://github.com/carpentries/workbench-template-md/edit/main/README.md" class="external-link">Edit on GitHub</a>
+        <a href="https://github.com/newcastlerse-training/data-management-carpentry/edit/main/README.md" class="external-link">Edit on GitHub</a>
 
 	
-        | <a href="https://github.com/carpentries/workbench-template-md/blob/main/CONTRIBUTING.md" class="external-link">Contributing</a>
-        | <a href="https://github.com/carpentries/workbench-template-md/" class="external-link">Source</a></p>
+        | <a href="https://github.com/newcastlerse-training/data-management-carpentry/blob/main/CONTRIBUTING.md" class="external-link">Contributing</a>
+        | <a href="https://github.com/newcastlerse-training/data-management-carpentry/" class="external-link">Source</a></p>
         <p>
         <a href="../citation.html">Cite</a>
         | <a href="mailto:rseteam@ncl.ac.uk">Contact</a> | <a href="https://carpentries.org/about/" class="external-link">About</a></p>
@@ -577,7 +624,7 @@ dataset under a new filename (e.g.,
         <p>Materials licensed under <a href="LICENSE.html">CC-BY 4.0</a> by the authors</p>
 
         <p>Template licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="external-link">CC-BY 4.0</a> by <a href="https://carpentries.org/" class="external-link">The Carpentries</a></p>
-        <p>Built with <a href="https://github.com/carpentries/sandpaper/tree/" class="external-link">sandpaper (0.20.2)</a>, <a href="https://github.com/carpentries/pegboard/tree/" class="external-link">pegboard (0.7.9)</a>, and <a href="https://github.com/carpentries/varnish/tree/" class="external-link">varnish (1.1.1)</a></p>
+        <p>Built with <a href="https://github.com/carpentries/sandpaper/tree/" class="external-link">sandpaper (0.21.1)</a>, <a href="https://github.com/carpentries/pegboard/tree/" class="external-link">pegboard (0.7.9)</a>, and <a href="https://github.com/carpentries/varnish/tree/" class="external-link">varnish (1.1.3)</a></p>
 		</div>
 		</footer>
 </div> <!-- / div.container -->
@@ -590,18 +637,18 @@ dataset under a new filename (e.g.,
     {
   "@context": "https://schema.org",
   "@type": "LearningResource",
-  "@id": "https://carpentries.github.io/workbench-template-md/instructor/instructor-notes.html",
+  "@id": "https://newcastlerse-training.github.io/data-management-carpentry/instructor/instructor-notes.html",
   "inLanguage": "en",
   "dct:conformsTo": "https://bioschemas.org/profiles/LearningResource/1.0-RELEASE",
   "description": "A Carpentries Lesson teaching foundational data and coding skills to researchers worldwide",
   "keywords": "data, lesson, The Carpentries",
   "name": "Instructor Notes",
   "creativeWorkStatus": "active",
-  "url": "https://carpentries.github.io/workbench-template-md/instructor/instructor-notes.html",
-  "identifier": "https://carpentries.github.io/workbench-template-md/instructor/instructor-notes.html",
+  "url": "https://newcastlerse-training.github.io/data-management-carpentry/instructor/instructor-notes.html",
+  "identifier": "https://newcastlerse-training.github.io/data-management-carpentry/instructor/instructor-notes.html",
   "dateCreated": "2026-07-01",
-  "dateModified": "2026-08-25",
-  "datePublished": "2026-08-25"
+  "dateModified": "2026-11-04",
+  "datePublished": "2026-11-04"
 }
 
   </script><script>

@@ -1,129 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/01-introduction.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/aio.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/citation.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/citation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/data-formats.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/data-formats.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/deleting-data.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/deleting-data.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/documentation.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/documentation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/file-names.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/file-names.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/file-structures.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/file-structures.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/images.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/01-introduction.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/aio.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/citation.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/citation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/data-formats.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/data-formats.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/deleting-data.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/deleting-data.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/documentation.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/documentation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/file-names.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/file-names.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/file-structures.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/file-structures.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/images.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/instructor-notes.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/key-points.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/reference.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/storing-data.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/storing-data.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/tabular-data.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/tabular-data.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/transferring-data.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/transferring-data.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor-notes.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor/wrapping-up.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/key-points.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/key-points.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/profiles.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/storing-data.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/reference.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/tabular-data.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/storing-data.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/transferring-data.html</loc>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/tabular-data.html</loc>
+  </url>
+  <url>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/transferring-data.html</loc>
+  </url>
+  <url>
+    <loc>https://newcastlerse-training.github.io/data-management-carpentry/wrapping-up.html</loc>
   </url>
 </urlset>
